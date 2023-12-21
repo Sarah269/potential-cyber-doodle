@@ -27,3 +27,4 @@ Tool:  Powershell ISE</pre>
 </ul>
 
 
+![Create Baseline](https://github.com/Sarah269/potential-cyber-doodle/blob/main/FIM/FIM_2.png)
