@@ -26,5 +26,24 @@ Tool:  Powershell ISE</pre>
   <li>Write message to console for each file</li>
 </ul>
 
+<p>Create Baseline</p>
 
 ![Create Baseline](https://github.com/Sarah269/potential-cyber-doodle/blob/main/FIM/FIM_2.png)
+
+<p>Create Baseline.  Entered wrong option</p>
+
+![Entered wrong option](https://github.com/Sarah269/potential-cyber-doodle/blob/main/FIM/FIM_1.png)
+
+<p>Monitor files.  No changes</p>
+
+![Monitor files. No changes](https://github.com/Sarah269/potential-cyber-doodle/blob/main/FIM/FIM_3.png)
+
+<p>Monitor files.  Changes detected</p>
+
+![Monitor files. Changes detected](https://github.com/Sarah269/potential-cyber-doodle/blob/main/FIM/FIM_4.png)
+
+<p>Monitor files.  No baseline exists</p>
+
+![Monitor files. No baseline exists](https://github.com/Sarah269/potential-cyber-doodle/blob/main/FIM/FIM_5.png)
+
+
