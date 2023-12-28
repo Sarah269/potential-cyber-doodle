@@ -44,6 +44,6 @@ Tool:  Powershell ISE</pre>
 
 <p>Monitor files.  No baseline exists</p>
 
-![Monitor files. No baseline exists](https://github.com/Sarah269/potential-cyber-doodle/blob/main/FIM/FIM_5.png)
+![Monitor files. No baseline exists](https://github.com/Sarah269/potential-cyber-doodle/blob/main/FIM/FIM_nobase.png)
 
 
