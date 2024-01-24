@@ -11,4 +11,5 @@ This repository is dedicated to cybersecurity
 [Project:  File Integrity Monitor](https://github.com/Sarah269/potential-cyber-doodle/tree/main/FIM)
 *  Purpose:  File integrity monitor proof of concept
 
-  
+[Project:  Modify Mini Notes App](https://github.com/Sarah269/potential-cyber-doodle/tree/main/MiniNotesApp)
+* Purpose:  Modify JavaScript to replace innerHTML with a more secure alternative
